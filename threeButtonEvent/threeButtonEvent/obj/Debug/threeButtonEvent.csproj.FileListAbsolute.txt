@@ -1,0 +1,9 @@
+C:\cSharp\threeButtonEvent\threeButtonEvent\bin\Debug\threeButtonEvent.exe.config
+C:\cSharp\threeButtonEvent\threeButtonEvent\bin\Debug\threeButtonEvent.exe
+C:\cSharp\threeButtonEvent\threeButtonEvent\bin\Debug\threeButtonEvent.pdb
+C:\cSharp\threeButtonEvent\threeButtonEvent\obj\Debug\threeButtonEvent.csprojResolveAssemblyReference.cache
+C:\cSharp\threeButtonEvent\threeButtonEvent\obj\Debug\threeButtonEvent.Form1.resources
+C:\cSharp\threeButtonEvent\threeButtonEvent\obj\Debug\threeButtonEvent.Properties.Resources.resources
+C:\cSharp\threeButtonEvent\threeButtonEvent\obj\Debug\threeButtonEvent.csproj.GenerateResource.Cache
+C:\cSharp\threeButtonEvent\threeButtonEvent\obj\Debug\threeButtonEvent.exe
+C:\cSharp\threeButtonEvent\threeButtonEvent\obj\Debug\threeButtonEvent.pdb

@@ -1,0 +1,9 @@
+C:\cSharp\Events\Events\bin\Debug\Events.exe.config
+C:\cSharp\Events\Events\bin\Debug\Events.exe
+C:\cSharp\Events\Events\bin\Debug\Events.pdb
+C:\cSharp\Events\Events\obj\Debug\Events.csprojResolveAssemblyReference.cache
+C:\cSharp\Events\Events\obj\Debug\Events.Form1.resources
+C:\cSharp\Events\Events\obj\Debug\Events.Properties.Resources.resources
+C:\cSharp\Events\Events\obj\Debug\Events.csproj.GenerateResource.Cache
+C:\cSharp\Events\Events\obj\Debug\Events.exe
+C:\cSharp\Events\Events\obj\Debug\Events.pdb

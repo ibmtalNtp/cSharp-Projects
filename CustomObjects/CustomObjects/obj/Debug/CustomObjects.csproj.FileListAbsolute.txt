@@ -1,0 +1,9 @@
+C:\Users\LAB1-PC\Desktop\CustomObjects\CustomObjects\bin\Debug\CustomObjects.exe.config
+C:\Users\LAB1-PC\Desktop\CustomObjects\CustomObjects\bin\Debug\CustomObjects.exe
+C:\Users\LAB1-PC\Desktop\CustomObjects\CustomObjects\bin\Debug\CustomObjects.pdb
+C:\Users\LAB1-PC\Desktop\CustomObjects\CustomObjects\obj\Debug\CustomObjects.csprojResolveAssemblyReference.cache
+C:\Users\LAB1-PC\Desktop\CustomObjects\CustomObjects\obj\Debug\CustomObjects.Form1.resources
+C:\Users\LAB1-PC\Desktop\CustomObjects\CustomObjects\obj\Debug\CustomObjects.Properties.Resources.resources
+C:\Users\LAB1-PC\Desktop\CustomObjects\CustomObjects\obj\Debug\CustomObjects.csproj.GenerateResource.Cache
+C:\Users\LAB1-PC\Desktop\CustomObjects\CustomObjects\obj\Debug\CustomObjects.exe
+C:\Users\LAB1-PC\Desktop\CustomObjects\CustomObjects\obj\Debug\CustomObjects.pdb

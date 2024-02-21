@@ -1,0 +1,9 @@
+C:\cSharp\formUygulama\formUygulama\bin\Debug\formUygulama.exe.config
+C:\cSharp\formUygulama\formUygulama\bin\Debug\formUygulama.exe
+C:\cSharp\formUygulama\formUygulama\bin\Debug\formUygulama.pdb
+C:\cSharp\formUygulama\formUygulama\obj\Debug\formUygulama.csprojResolveAssemblyReference.cache
+C:\cSharp\formUygulama\formUygulama\obj\Debug\formUygulama.Properties.Resources.resources
+C:\cSharp\formUygulama\formUygulama\obj\Debug\formUygulama.csproj.GenerateResource.Cache
+C:\cSharp\formUygulama\formUygulama\obj\Debug\formUygulama.exe
+C:\cSharp\formUygulama\formUygulama\obj\Debug\formUygulama.pdb
+C:\cSharp\formUygulama\formUygulama\obj\Debug\formUygulama.Form1.resources
