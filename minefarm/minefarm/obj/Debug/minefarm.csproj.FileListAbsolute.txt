@@ -1,0 +1,9 @@
+C:\cSharp\minefarm\minefarm\bin\Debug\minefarm.exe.config
+C:\cSharp\minefarm\minefarm\bin\Debug\minefarm.exe
+C:\cSharp\minefarm\minefarm\bin\Debug\minefarm.pdb
+C:\cSharp\minefarm\minefarm\obj\Debug\minefarm.csprojResolveAssemblyReference.cache
+C:\cSharp\minefarm\minefarm\obj\Debug\minefarm.Form1.resources
+C:\cSharp\minefarm\minefarm\obj\Debug\minefarm.Properties.Resources.resources
+C:\cSharp\minefarm\minefarm\obj\Debug\minefarm.csproj.GenerateResource.Cache
+C:\cSharp\minefarm\minefarm\obj\Debug\minefarm.exe
+C:\cSharp\minefarm\minefarm\obj\Debug\minefarm.pdb
