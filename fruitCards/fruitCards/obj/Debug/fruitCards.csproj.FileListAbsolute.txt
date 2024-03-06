@@ -1,0 +1,9 @@
+C:\cSharp\fruitCards\fruitCards\bin\Debug\fruitCards.exe.config
+C:\cSharp\fruitCards\fruitCards\bin\Debug\fruitCards.exe
+C:\cSharp\fruitCards\fruitCards\bin\Debug\fruitCards.pdb
+C:\cSharp\fruitCards\fruitCards\obj\Debug\fruitCards.csprojResolveAssemblyReference.cache
+C:\cSharp\fruitCards\fruitCards\obj\Debug\fruitCards.Form1.resources
+C:\cSharp\fruitCards\fruitCards\obj\Debug\fruitCards.Properties.Resources.resources
+C:\cSharp\fruitCards\fruitCards\obj\Debug\fruitCards.csproj.GenerateResource.Cache
+C:\cSharp\fruitCards\fruitCards\obj\Debug\fruitCards.exe
+C:\cSharp\fruitCards\fruitCards\obj\Debug\fruitCards.pdb
