@@ -1,0 +1,1 @@
+C:\cSharp\numberSkor\numberSkor\bin\Debug\numberSkor.exe.config

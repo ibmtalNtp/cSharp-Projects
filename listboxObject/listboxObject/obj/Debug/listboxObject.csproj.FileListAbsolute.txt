@@ -1,0 +1,9 @@
+C:\cSharp\listboxObject\listboxObject\bin\Debug\listboxObject.exe.config
+C:\cSharp\listboxObject\listboxObject\bin\Debug\listboxObject.exe
+C:\cSharp\listboxObject\listboxObject\bin\Debug\listboxObject.pdb
+C:\cSharp\listboxObject\listboxObject\obj\Debug\listboxObject.csprojResolveAssemblyReference.cache
+C:\cSharp\listboxObject\listboxObject\obj\Debug\listboxObject.Form1.resources
+C:\cSharp\listboxObject\listboxObject\obj\Debug\listboxObject.Properties.Resources.resources
+C:\cSharp\listboxObject\listboxObject\obj\Debug\listboxObject.csproj.GenerateResource.Cache
+C:\cSharp\listboxObject\listboxObject\obj\Debug\listboxObject.exe
+C:\cSharp\listboxObject\listboxObject\obj\Debug\listboxObject.pdb
