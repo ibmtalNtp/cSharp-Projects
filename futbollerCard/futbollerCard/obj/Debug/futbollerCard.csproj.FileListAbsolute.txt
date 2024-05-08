@@ -1,0 +1,8 @@
+C:\Users\LAB1-PC\Desktop\futbollerCard\futbollerCard\bin\Debug\futbollerCard.exe.config
+C:\Users\LAB1-PC\Desktop\futbollerCard\futbollerCard\bin\Debug\futbollerCard.exe
+C:\Users\LAB1-PC\Desktop\futbollerCard\futbollerCard\bin\Debug\futbollerCard.pdb
+C:\Users\LAB1-PC\Desktop\futbollerCard\futbollerCard\obj\Debug\futbollerCard.csprojResolveAssemblyReference.cache
+C:\Users\LAB1-PC\Desktop\futbollerCard\futbollerCard\obj\Debug\futbollerCard.Properties.Resources.resources
+C:\Users\LAB1-PC\Desktop\futbollerCard\futbollerCard\obj\Debug\futbollerCard.csproj.GenerateResource.Cache
+C:\Users\LAB1-PC\Desktop\futbollerCard\futbollerCard\obj\Debug\futbollerCard.exe
+C:\Users\LAB1-PC\Desktop\futbollerCard\futbollerCard\obj\Debug\futbollerCard.pdb
