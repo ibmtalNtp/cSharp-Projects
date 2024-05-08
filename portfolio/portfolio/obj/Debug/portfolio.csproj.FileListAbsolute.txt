@@ -1,0 +1,1 @@
+C:\cSharp\portfolio\portfolio\bin\Debug\portfolio.exe.config

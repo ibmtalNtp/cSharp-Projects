@@ -1,0 +1,9 @@
+C:\cSharp\matematik\matematik\bin\Debug\matematik.exe.config
+C:\cSharp\matematik\matematik\bin\Debug\matematik.exe
+C:\cSharp\matematik\matematik\bin\Debug\matematik.pdb
+C:\cSharp\matematik\matematik\obj\Debug\matematik.csprojResolveAssemblyReference.cache
+C:\cSharp\matematik\matematik\obj\Debug\matematik.Form1.resources
+C:\cSharp\matematik\matematik\obj\Debug\matematik.Properties.Resources.resources
+C:\cSharp\matematik\matematik\obj\Debug\matematik.csproj.GenerateResource.Cache
+C:\cSharp\matematik\matematik\obj\Debug\matematik.exe
+C:\cSharp\matematik\matematik\obj\Debug\matematik.pdb

@@ -1,0 +1,9 @@
+C:\cSharp\carPrice\carPrice\bin\Debug\carPrice.exe.config
+C:\cSharp\carPrice\carPrice\bin\Debug\carPrice.exe
+C:\cSharp\carPrice\carPrice\bin\Debug\carPrice.pdb
+C:\cSharp\carPrice\carPrice\obj\Debug\carPrice.csprojResolveAssemblyReference.cache
+C:\cSharp\carPrice\carPrice\obj\Debug\carPrice.Form1.resources
+C:\cSharp\carPrice\carPrice\obj\Debug\carPrice.Properties.Resources.resources
+C:\cSharp\carPrice\carPrice\obj\Debug\carPrice.csproj.GenerateResource.Cache
+C:\cSharp\carPrice\carPrice\obj\Debug\carPrice.exe
+C:\cSharp\carPrice\carPrice\obj\Debug\carPrice.pdb

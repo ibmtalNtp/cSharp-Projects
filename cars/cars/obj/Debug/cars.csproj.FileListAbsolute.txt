@@ -1,0 +1,9 @@
+C:\cSharp\cars\cars\bin\Debug\cars.exe.config
+C:\cSharp\cars\cars\obj\Debug\cars.csprojResolveAssemblyReference.cache
+C:\cSharp\cars\cars\obj\Debug\cars.Form1.resources
+C:\cSharp\cars\cars\obj\Debug\cars.Properties.Resources.resources
+C:\cSharp\cars\cars\obj\Debug\cars.csproj.GenerateResource.Cache
+C:\cSharp\cars\cars\bin\Debug\cars.exe
+C:\cSharp\cars\cars\bin\Debug\cars.pdb
+C:\cSharp\cars\cars\obj\Debug\cars.exe
+C:\cSharp\cars\cars\obj\Debug\cars.pdb
