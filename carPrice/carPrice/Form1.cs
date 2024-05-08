@@ -16,5 +16,25 @@ namespace carPrice
         {
             InitializeComponent();
         }
+
+
+        private double toDouble(string metin)
+        {
+            double sonuc = 0;
+            try
+            {
+                sonuc = System.Convert.ToDouble(metin);
+            }
+            catch (Exception e)
+            {
+                sonuc = 0;
+            }
+            return sonuc;
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
