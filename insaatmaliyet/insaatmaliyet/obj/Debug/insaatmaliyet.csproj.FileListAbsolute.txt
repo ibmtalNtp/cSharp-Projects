@@ -1,0 +1,9 @@
+C:\Users\LAB1-PC\Desktop\insaatmaliyet\insaatmaliyet\bin\Debug\insaatmaliyet.exe.config
+C:\Users\LAB1-PC\Desktop\insaatmaliyet\insaatmaliyet\bin\Debug\insaatmaliyet.exe
+C:\Users\LAB1-PC\Desktop\insaatmaliyet\insaatmaliyet\bin\Debug\insaatmaliyet.pdb
+C:\Users\LAB1-PC\Desktop\insaatmaliyet\insaatmaliyet\obj\Debug\insaatmaliyet.csprojResolveAssemblyReference.cache
+C:\Users\LAB1-PC\Desktop\insaatmaliyet\insaatmaliyet\obj\Debug\insaatmaliyet.Form1.resources
+C:\Users\LAB1-PC\Desktop\insaatmaliyet\insaatmaliyet\obj\Debug\insaatmaliyet.Properties.Resources.resources
+C:\Users\LAB1-PC\Desktop\insaatmaliyet\insaatmaliyet\obj\Debug\insaatmaliyet.csproj.GenerateResource.Cache
+C:\Users\LAB1-PC\Desktop\insaatmaliyet\insaatmaliyet\obj\Debug\insaatmaliyet.exe
+C:\Users\LAB1-PC\Desktop\insaatmaliyet\insaatmaliyet\obj\Debug\insaatmaliyet.pdb
