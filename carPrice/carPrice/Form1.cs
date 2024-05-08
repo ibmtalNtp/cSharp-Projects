@@ -46,9 +46,18 @@ namespace carPrice
             double modelValue = 0;
             double maxPrice = toDouble(carMaxPrice.Text);
             double extimatedValue = maxPrice;
+            double km = toDouble(carKM.Text);
+            double kmValue = 0;
+            //model
             modelValue = (2024 - model) / 100 * modelPercent * maxPrice;
             carModelValue.Text = modelValue.ToString();
             extimatedValue = extimatedValue - modelValue;
+            //model end
+
+            //km
+
+            //km end 
+
             carEstimatedValue.Text = extimatedValue.ToString();
         }
     }
