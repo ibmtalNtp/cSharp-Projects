@@ -255,6 +255,7 @@
             this.carCalculate.TabIndex = 26;
             this.carCalculate.Text = "HESAPLA";
             this.carCalculate.UseVisualStyleBackColor = true;
+            this.carCalculate.Click += new System.EventHandler(this.carCalculate_Click);
             // 
             // carPertYes
             // 

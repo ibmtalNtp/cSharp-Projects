@@ -36,5 +36,20 @@ namespace carPrice
         {
 
         }
+
+        private void carCalculate_Click(object sender, EventArgs e)
+        {
+
+            string name = carName.Text;
+            double model = toDouble(carModel.Text);
+            double modelPercent = toDouble(carModelPercent.Text);
+            double modelValue = 0;
+            double maxPrice = toDouble(carMaxPrice.Text);
+            double extimatedValue = maxPrice;
+            modelValue = (2024 - model) / 100 * modelPercent * maxPrice;
+            carModelValue.Text = modelValue.ToString();
+            extimatedValue = extimatedValue - modelValue;
+            carEstimatedValue.Text = extimatedValue.ToString();
+        }
     }
 }
