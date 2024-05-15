@@ -1,0 +1,9 @@
+C:\cSharp\Hesap Defterim\Hesap Defterim\bin\Debug\Hesap Defterim.exe.config
+C:\cSharp\Hesap Defterim\Hesap Defterim\bin\Debug\Hesap Defterim.exe
+C:\cSharp\Hesap Defterim\Hesap Defterim\bin\Debug\Hesap Defterim.pdb
+C:\cSharp\Hesap Defterim\Hesap Defterim\obj\Debug\Hesap Defterim.csprojResolveAssemblyReference.cache
+C:\cSharp\Hesap Defterim\Hesap Defterim\obj\Debug\Hesap_Defterim.Form1.resources
+C:\cSharp\Hesap Defterim\Hesap Defterim\obj\Debug\Hesap_Defterim.Properties.Resources.resources
+C:\cSharp\Hesap Defterim\Hesap Defterim\obj\Debug\Hesap Defterim.csproj.GenerateResource.Cache
+C:\cSharp\Hesap Defterim\Hesap Defterim\obj\Debug\Hesap Defterim.exe
+C:\cSharp\Hesap Defterim\Hesap Defterim\obj\Debug\Hesap Defterim.pdb
